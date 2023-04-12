@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!-- properties태그는 오직 하나만 존재할 수 있다.  -->
+<properties> 
+	<entry key="file.upload.save.directory">c:/sample/files</entry>
+	<entry key="file.upload.maxuploadsize">10485760</entry>
+	<entry key="file.upload.encoding">utf-8</entry>
+</properties>
